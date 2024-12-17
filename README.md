@@ -4,7 +4,7 @@ A port of Ship of Harkinian to Android. <br>
 Original Repository: https://github.com/HarbourMasters/Shipwright <br>
 <br>
 
-NOTE: Controller only. No touch controls yet except for in the enhancements menu. <br>
+ 
 
 Supported (probably): Android 4.3+ (OpenGL ES 3.0+ required) <br>
 Tested On: Android 10 and Android 13 <br>
